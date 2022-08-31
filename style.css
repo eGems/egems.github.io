@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;900&display=swap');
+
+.header {
+    font-family: 'Courier Prime', monospace;
+}
+
+.center {
+    text-align: center;
+}
+
+.about {
+    font-family: 'League Spartan', sans-serif;
+}
